@@ -1,0 +1,6 @@
+{
+  "name": "Arcade-game",
+  "tagline": "An interactive game based in JavaScript",
+  "body": "# Patient Princess - Arcade Game\r\nThis web application is a demonstration of modeling in JavaScript.\r\n\r\n### Game Description\r\nYou are a beautiful princess, and many desparate suitors are after your hand in marriage. Use the arrows on your keyboard and avoid crashing into these suitors for as long as you can in hopes of holding out for your true prince charming.\r\n\r\n### How can I get the code?\r\nFeel free to Fork your own version of this code and play around within the files.\r\n\r\n### What are the technical requirements?\r\n* JavaScript-enabled web browser\r\n\r\n### What's Included\r\nWithin the repository you'll find the following files:\r\n```\r\nindex.html\r\napp.js\r\nengine.js\r\nresources.js\r\nimages (directory)\r\ncss (directory)\r\n```\r\n\r\n### How do I run the application?\r\n1. Open index.html in web browser.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
